@@ -1,0 +1,13 @@
+bottiglia
+macchina
+casa
+computer
+albero
+telefono
+elefante
+aereo
+biscotto
+nave
+gatto
+cane
+
