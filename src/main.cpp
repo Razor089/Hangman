@@ -56,7 +56,7 @@ void credits(void)
     cout << "/*********************/" << endl;
     cout << "/*                   */" << endl;
     cout << "/* Hangman Game      */" << endl;
-    cout << "/* Ver 1.0           */" << endl;
+    cout << "/* Ver 1.1           */" << endl;
     cout << "/*                   */" << endl;
     cout << "/* @Author           */" << endl;
     cout << "/* Cosimo Davide     */" << endl;

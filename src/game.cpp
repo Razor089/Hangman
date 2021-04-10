@@ -108,10 +108,19 @@ void Game::play()
 
         if(this->gameOver)
         {
+            string lostWord = "* " + this->word;
             cout << endl; 
-            cout << "**********************" << endl;
-            cout << "* Peccato hai perso! *" << endl;
-            cout << "**********************" << endl;
+            cout << "********************************" << endl;
+            cout << "* Peccato hai perso!           *" << endl;
+            cout << "* La parola da indovinare era: *" << endl;
+            for(int i = lostWord.length(); i < 31; i++)
+            {
+                lostWord += " ";
+            }
+            lostWord += "*";
+            cout << lostWord << endl;
+            cout << "*                              *" << endl;
+            cout << "********************************" << endl;
             break;
         }
     }
