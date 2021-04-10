@@ -1,7 +1,7 @@
 /**********************/
 /*                    */
 /* Hangman Game       */
-/* Ver 1.0            */
+/* Ver 1.1            */
 /*                    */
 /* @Author            */
 /* Cosimo Davide      */
